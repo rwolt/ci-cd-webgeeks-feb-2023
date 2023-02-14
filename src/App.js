@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Wahoo!
+          Wahoo!!!
         </a>
         <p>Github Actions</p>
       </header>
