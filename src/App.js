@@ -17,6 +17,7 @@ function App() {
         >
           Wahoo!
         </a>
+        <p>Github Actions</p>
       </header>
     </div>
   );
